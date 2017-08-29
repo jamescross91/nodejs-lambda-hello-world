@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-lambda-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jamescross91/nodejs-lambda-hello-world.git"
+  },
+  "author": "James Cross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamescross91/nodejs-lambda-hello-world"
+  },
+  "homepage": "https://github.com/jamescross91/nodejs-lambda-hello-world#readme",
+  "dependencies": {
+  }
+}
